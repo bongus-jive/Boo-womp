@@ -1,0 +1,10 @@
+{
+  "version" : "1.0",
+  "author" : "patm",
+  "tags" : "Miscellaneous|Character Improvements",
+  "description" : "when you do the sad emote it goes boo womp (the sound from sponge bob that plays when they are sad)\n\nthat is all",
+  "name" : "pat_boowomp",
+  "friendlyName" : "Boo-womp",
+  "steamContentId" : "2607561392",
+  "link" : "steam://url/CommunityFilePage/2607561392"
+}
