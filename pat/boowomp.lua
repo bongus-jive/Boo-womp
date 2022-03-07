@@ -4,7 +4,7 @@ function init()
 		pane.playSound("/pat/boowomp.ogg")
 		pane.dismiss()
 	else
-		script.setUpdateDelta(10)
+		script.setUpdateDelta(15)
 		boowomped = false
 	end
 end
