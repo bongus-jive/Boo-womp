@@ -1,7 +1,7 @@
 [
-	{
-		"op" : "add",
-		"path" : "/genericScriptContexts/pat_boowomp",
-		"value" : "/pat/boowomp.lua"
-	}
+  {
+    "op": "add",
+    "path": "/genericScriptContexts/pat_boowomp",
+    "value": "/pat/boowomp.lua"
+  }
 ]
