@@ -2,6 +2,6 @@
   {
     "op": "add",
     "path": "/genericScriptContexts/pat_boowomp",
-    "value": "/pat/boowomp.lua"
+    "value": "/pat/boowomp/boowomp.lua"
   }
 ]
