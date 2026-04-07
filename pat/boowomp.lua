@@ -1,4 +1,3 @@
-local pane = { gui = {}, scripts = { "/pat/boowomp_sound.lua" } }
 local boowomping
 
 function init()
@@ -8,7 +7,7 @@ end
 function update()
   local sad = currentEmote() == "sad"
   if sad and not boowomping then
-    player.interact("ScriptPane", pane)
+    status.addEphemeralEffect("pat_boowomp")
   end
   boowomping = sad
 end

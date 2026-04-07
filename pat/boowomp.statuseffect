@@ -1,0 +1,5 @@
+{
+  "name": "pat_boowomp",
+  "defaultDuration": 0.05,
+  "animationConfig": "boowomp.animation"
+}

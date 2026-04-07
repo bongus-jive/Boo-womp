@@ -1,0 +1,17 @@
+{
+  "animatedParts": {
+    "stateTypes": {
+      "boo": {
+        "default": "womp",
+        "states": {
+          "womp": {
+            "properties": {
+              "immediateSound": "/pat/boowomp.ogg",
+              "immediateSoundRangeMultiplier": 0.5
+            }
+          }
+        }
+      }
+    }
+  }
+}
